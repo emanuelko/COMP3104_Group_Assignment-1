@@ -1,0 +1,5 @@
+Efficiency and success are high as innovations and corrections that need to be put 
+into use are processed in a very short time thanks to the work done by the teams with 
+each other and the intensity of communication. As (Deploy), Versioning (Release) and Test processes, 
+it ensures that all personnel in DevOps are aware of the application's coding, running and life cycle.
+
