@@ -1,0 +1,14 @@
+Dev team,
+Making plans for the application to be created,
+Creating the application
+Application release and publish (versioning and publishing)
+Application improvement 
+Application Testing processes
+……
+
+Ops team,
+Designing the environment where the applications will be hosted and used,
+Ensuring that the necessary network and security configurations are made so that the applications can communicate with the system components required for their operation,
+To determine the resource usage of the application,
+To follow up the application with the necessary monitoring tools,
+Ensuring resource increase according to the application's system resources usage level,
