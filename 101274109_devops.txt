@@ -1,5 +1,14 @@
-Efficiency and success are high as innovations and corrections that need to be put 
-into use are processed in a very short time thanks to the work done by the teams with 
-each other and the intensity of communication. As (Deploy), Versioning (Release) and Test processes, 
-it ensures that all personnel in DevOps are aware of the application's coding, running and life cycle.
+Dev team,
+Making plans for the application to be created,
+Creating the application
+Application release and publish (versioning and publishing)
+Application improvement 
+Application Testing processes
+……
 
+Ops team,
+Designing the environment where the applications will be hosted and used,
+Ensuring that the necessary network and security configurations are made so that the applications can communicate with the system components required for their operation,
+To determine the resource usage of the application,
+To follow up the application with the necessary monitoring tools,
+Ensuring resource increase according to the application's system resources usage level,
