@@ -1,0 +1,7 @@
+Dev team,
+Making plans for the application to be created,
+Creating the application
+Application release and publish (versioning and publishing)
+Application improvement 
+Application Testing processes
+……
