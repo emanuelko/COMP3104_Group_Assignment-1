@@ -1,0 +1,6 @@
+The main purpose of DevOps is to reduce software development, and deployment cycle time. 
+DevOps practices enable faster software releases through continuous delivery, and agile 
+methodologies. These practices enable software developers to achieve more growth. If you 
+are interested in pursuing a career in DevOps, you need to have knowledge about the stages 
+of the software development lifecycle like programming, monitoring, and cloud. Read on to 
+learn how you can become a DevOps engineer.
