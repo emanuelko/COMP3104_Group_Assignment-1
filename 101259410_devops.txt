@@ -2,3 +2,6 @@ DevOps is a combination of cultural philosophies, methods, and tools that increa
 to develop and improve products faster than organizations using traditional software development and
  infrastructure management processes, enabling them to deliver applications and services at high speed. 
 This speed allows organizations to better serve their customers and compete more effectively in the market.
+
+In order to act with the group and achieve success in the programming sector, 
+we will need to learn the logic of DEVOPS and practice how it is applied.
