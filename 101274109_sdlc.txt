@@ -6,4 +6,3 @@ We can say that the software life cycle (Software Development
    one-sided, but becomes a cycle where feedback is made, problems are 
    solved through repetitions, or new features are acquired. Thanks to these
     cycles, the development of the software becomes more comfortable and planned. 
-Thanks to some basic steps in this cycle, we can say that we are more dominant in time and economy management.
