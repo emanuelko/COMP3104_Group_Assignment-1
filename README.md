@@ -2,5 +2,5 @@
 
 # Group Member 1 : Hamza Koc - 101274109
 
-# Group Member 2 : Resul Yuksektepe -101259410 ( firts ID was wrong this is right one)
+# Group Member 2 : Resul Yuksektepe -101259410 
  
