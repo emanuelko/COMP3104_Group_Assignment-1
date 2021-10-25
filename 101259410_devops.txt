@@ -5,3 +5,19 @@ This speed allows organizations to better serve their customers and compete more
 
 In order to act with the group and achieve success in the programming sector, 
 we will need to learn the logic of DEVOPS and practice how it is applied.
+
+DevOps is the two basic units (Developers and Operations), Developers (Software Developers, 
+Software Testers, etc.), Operations (System Architecture and Infrastructure Teams, 
+Security and Networking teams, etc.) working together in effective communication within the 
+Information Technologies department. We can actually consider.DevOps as a philosophy, approach,
+ or perspective. 
+It is like Scrum, Agile, Kanban, and other methods that software developers are used to...
+
+Dev team,
+Making plans for the application to be created,
+Creating (Coding) the application
+Application release and publish (versioning and publishing)
+Application improvement (Update)
+Application Testing processes
+……
+Responsible.
