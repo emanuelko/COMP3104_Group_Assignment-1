@@ -1,0 +1,7 @@
+DevOps, a component of development (Dev) and operations (Ops),
+ is a collection of people, processes, and technologies that come together to deliver value to customers on an ongoing basis.
+
+DevOps enables formerly disparate development, 
+IT operations, quality engineering, and security roles to coordinate and collaborate 
+to produce better and more reliable products. Teams that adopt a DevOps culture, along with DevOps methods and tools, 
+are better able to respond to customer needs, increase their confidence in the applications they build, and achieve business goals more quickly.
