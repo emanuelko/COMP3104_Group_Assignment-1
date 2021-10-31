@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edf9dde6-3379-400d-84db-46aac11d2733" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/101274109_devops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/101274109_gb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/101274109_sdlc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studentid_devops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studentid_gb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studentid_sdlc.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zZ6E9z3T94nr2xRyRF3k8KCYcD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edf9dde6-3379-400d-84db-46aac11d2733" name="Default Changelist" comment="" />
+      <created>1634343149055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634343149055</updated>
+      <workItem from="1634343156255" duration="1191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
